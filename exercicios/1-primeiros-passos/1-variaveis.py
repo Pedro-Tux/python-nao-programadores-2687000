@@ -15,5 +15,5 @@ idade = 55
 altura = 1.79
 
 # Declare uma variável do tipo booleano
-casado = True
-filhos = False
+verdadeiro = True
+falso = False
